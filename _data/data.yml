@@ -18,13 +18,13 @@ sidebar:
     timezone: CET
     citizenship: Spanish
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    linkedin: mvelezcdb
+    xing:
+    github: manuelvelez
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -45,10 +45,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Music
           link:
 
-        - item: Snowboarding
+        - item: Sports
           link:
 
         - item: Cooking
@@ -92,43 +92,30 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - role: QA Lead & Team Lead
+        time: December 2016 - Present
+        company: Fashionette AG, Germany.
+        details:
+      - role: QA Lead
+        time: June 2015 - December 2016
+        company: ITRS Group, Málaga, Spain.
+        details:
+      - role: QA Manager
+        time: October 2012 - June 2015
+        company: Red Universal de Marketing y Booking on-line, Spain.
+        details:
+      - role: QA Engineer
+        time: March 2010 - October 2012
+        company: Profile Software Services - GMV, Madrid, Spain
+        details:
+      - role: QA Engineer
+        time: September 2008 - March 2010
+        company: Orga Systems GmBH, Madrid, Spain
+        details:
+      - role: QA Engineer for Air Traffic Management systems
+        time: September 2007 – September 2008
+        company: Polar Consultores.- Indra ATM SL, Madrid, Spain
+        details:
 
 certifications:
       title: Certifications
