@@ -8,47 +8,47 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Manuel Vélez Martínez
+    tagline: QA Lead & Team Lead
+    avatar: manuel.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: manuelvelez@gmail.com
+    phone: +34 687 922 055
+    timezone: CET
+    citizenship: Spanish
+    website:
+    linkedin: mvelezcdb
+    xing:
+    github: manuelvelez
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: ./assets/pdf/cvmvelez_en.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Spanish
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Italian
+          level: Basic
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Music
           link:
 
-        - item: Snowboarding
+        - item: Sports
           link:
 
         - item: Cooking
@@ -57,119 +57,100 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      There will be a career profile here soon.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: Computer Engineering
+        university: Universitat Oberta de Catalunya (UOC)
+        time: 2013 - 2016
+        details:
+      - degree: Technical Engineering in Computer Management
+        university: Universidad de Córdoba (UCO)
+        time: 2000 - 2005
+        details:
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - role: QA Lead & Team Lead
+        time: December 2016 - Present
+        company: Fashionette AG, Germany.
+        details:
+      - role: QA Lead
+        time: June 2015 - December 2016
+        company: ITRS Group, Málaga, Spain.
+        details:
+      - role: QA Manager
+        time: October 2012 - June 2015
+        company: Red Universal de Marketing y Booking on-line, Spain.
+        details:
+      - role: QA Engineer
+        time: March 2010 - October 2012
+        company: Profile Software Services - GMV, Madrid, Spain
+        details:
+      - role: QA Engineer
+        time: September 2008 - March 2010
+        company: Orga Systems GmBH, Madrid, Spain
+        details:
+      - role: QA Engineer for Air Traffic Management systems
+        time: September 2007 – September 2008
+        company: Polar Consultores.- Indra ATM SL, Madrid, Spain
+        details:
+      - role: Network Operator
+        time: September 2006 – September 2007
+        company: Sprint Systems S.L., Córdoba, Spain
+        details:
+      - role: Trainer & Installer
+        time: August 2006 – September 2006
+        company: Getronics, Córdoba, Spain
+        details: Responsible for training staff at La Caixa in the use of tickets Getronics recycler.
+      - role: Trainer & Installer
+        time: June 2006 – August 2006
+        company: Fujitsu, Córdoba, Spain
+        details: Responsible for training staff at La Caixa in the use of tickets Fujitsu recycler.
+      - role: Web Developer
+        time: June 2005 – June 2006
+        company: Servinfor CB, Córdoba, Spain
+        details:
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
+        - name: Cyber Security Testing Training
+          start: December 2020
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: Ciklum IT Spain S.L
+          credentialid:
+          credentialurl:
+          credentialname:
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Technical Introduction to penetration testing
+        - name: Targeted Training for Middle Managers
+          start: September 2019
+          end:
+          organization: Ciklum IT Spain S.L
+          credentialid:
+          credentialurl:
+          credentialname:
+          details: |
+            Equipping Team Leads and Managers with the best practices in people management and client relationship.
+        - name: Scrum methodology in software development
+          start: September 2012
+          end:
+          organization: International scrum institute
+          credentialid: 70137149178136
+          credentialurl:
+          credentialname:
+          details:
+        - name: ISTQB certification training
+          start: September 2011
+          end:
+          organization:
+          credentialid:
+          credentialurl:
+          credentialname:
+          details: ISTQB methodology
 
 projects:
     title: Projects
