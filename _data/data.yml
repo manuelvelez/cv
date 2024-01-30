@@ -51,7 +51,7 @@ sidebar:
         - item: Sports
           link:
 
-        - item: Cooking
+        - item: Android
           link:
 
 career-profile:
@@ -61,12 +61,12 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Computer Engineering
-        university: Universitat Oberta de Catalunya (UOC)
+      - degree: Computing Engineering
+        university: Open University of Catalonia (UOC)
         time: 2013 - 2016
-        details:
-      - degree: Technical Engineering in Computer Management
-        university: Universidad de Córdoba (UCO)
+        details: "Relevant Coursework: Fundamentals of Computer Science (Algorithm and data structures), Programming (Java, C/C++, Python), Operating Systems, Networking and communication, Databases (design and implementation), AI and Machine Learning, Security, Software Develpment, System Engineering, Computher Ethics and Law, and Emerging Tech."
+      - degree: Bachelor Degree in Computing Engineering
+        university: University of Córdoba (UCO)
         time: 2000 - 2005
         details:
 
@@ -117,6 +117,15 @@ experiences:
 certifications:
       title: Certifications
       list:
+        - name: "Complete Android: Learn creating apps"
+          start: January 2024
+          end:
+          organization: Udemy
+          credentialid: UC-845b0136-e1c0-426c-9d32-050ea34ecc4b
+          credentialurl: ude.my/UC-845b0136-e1c0-426c-9d32-050ea34ecc4b
+          credentialname:
+          details: Android development training Using APIS and Material Design
+
         - name: Cyber Security Testing Training
           start: December 2020
           end:
@@ -124,8 +133,8 @@ certifications:
           credentialid:
           credentialurl:
           credentialname:
-          details: |
-            Technical Introduction to penetration testing
+          details: Technical Introduction to penetration testing
+
         - name: Targeted Training for Middle Managers
           start: September 2019
           end:
@@ -159,25 +168,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: FarmaGuardGo!
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "An android application to find the on-call pharmacies open in your area (Available in Cordoba and Malaga) - Application under development "
 
 oss:
     title: OSS Contributions
@@ -188,7 +181,7 @@ oss:
     contributions:
       - title: Tempo
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "An android application to find the on-call pharmacies open in your area (Available in Cordoba and Malaga) - Application under development"
 
       - title: Atom
         link: "#"
