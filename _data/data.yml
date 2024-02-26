@@ -126,6 +126,15 @@ certifications:
           credentialname:
           details: Android development training Using APIS and Material Design
 
+        - name: "Complete Kotlin: Programming Course From Zero"
+          start: February 2024
+          end:
+          organization: Udemy
+          credentialid: UC-6844e902-5d80-43a0-b2e5-9ccabe29e80
+          credentialurl: ude.my/UC-6844e902-5d80-43a0-b2e5-9ccabe29e80
+          credentialname:
+          details: Kotlin training
+
         - name: Cyber Security Testing Training
           start: December 2020
           end:
